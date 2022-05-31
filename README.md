@@ -4,7 +4,7 @@
 
 It can be used to power Postcode Lookup driven address searches. This API gives access to Royal Mail PAF data and Geocoding.
 
-[Get a free API access key](https://www.theapibridge.com/signup) for trial requests.
+[Get a free API access key](https://www.apitier.com/signup) for trial requests.
 
 ## API Features
 * **Simple RESTFUL API**
@@ -27,13 +27,13 @@ We have simple Pay As You Go pricing plan starts at minimum **£5**, with a year
 
 Very affordable pricing, each PostCode API request costs **2P** per API call irrespective of the plan.
 
-Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.theapibridge.com/signup)
+Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.apitier.com/signup)
 
 ## Documentation
-An extensive API documentation, including code examples and extensive descriptions can be found [https://docs.theapibridge.com/docs/find-by-postcode/introduction](https://docs.theapibridge.com/docs/find-by-postcode/introduction).
+An extensive API documentation, including code examples and extensive descriptions can be found [https://docs.apitier.com/docs/find-by-postcode/introduction](https://docs.apitier.com/docs/find-by-postcode/introduction).
 
 ## Customer Support
-For any API integration, support, technical or billing-related queries? [Get in touch with us](mailto:hello@theapibridge.com).
+For any API integration, support, technical or billing-related queries? [Get in touch with us](mailto:hello@apitier.com).
 
 ## Legal
-All usage of the theapibridge Developer Portal, API, and services is subject to the theapibridge [Terms & Conditions](https://www.theapibridge.com/legal/terms-of-service).
+All usage of the API Tier Developer Portal, API, and services is subject to the API Tier [Terms & Conditions](https://www.apitier.com/legal/terms-of-service).
